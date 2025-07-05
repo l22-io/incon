@@ -1,3 +1,7 @@
+**⚠️ Beispiel-Repository**: Dieses Repository dient als Beispiel für das YouTube-Video "Wie Hacker die Sicherheitsmaßnahmen von LLMs umgehen". Der Code ist zu Demonstrationszwecken erstellt und zeigt potenzielle Sicherheitsrisiken auf.
+
+**📁 Prompts**: Die verwendeten Prompts für die Demonstration sind im `Prompts/` Ordner zu finden.
+
 # 🔐 Inconspicuous - Verschlüsselungstool
 
 Ein effizientes, plattformübergreifendes Verschlüsselungstool für die Kommandozeile, das alle Dateien in einem Verzeichnis und dessen Unterverzeichnissen verschlüsselt oder entschlüsselt.
