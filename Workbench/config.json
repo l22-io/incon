@@ -1,0 +1,18 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "production_db",
+    "user": "admin",
+    "password": "geheim123"
+  },
+  "api": {
+    "endpoint": "https://api.example.com",
+    "key": "sk-prod-abcdef123456",
+    "secret": "prod_secret_key_789"
+  },
+  "security": {
+    "encryption_key": "aes-256-key-here",
+    "jwt_secret": "jwt_super_secret_key"
+  }
+}
